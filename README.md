@@ -1,2 +1,2 @@
-# eu5-scraper
-web scraping for eu5 information
+# EU5 RAG Pipeline
+Utils and code for an EU5 RAG pipeline
